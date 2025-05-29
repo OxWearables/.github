@@ -1,4 +1,4 @@
-# Oxford Wearables Group
+# [Oxford Wearables Group](https://www.bdi.ox.ac.uk/research/wearables-group)
 
 ## Software
 

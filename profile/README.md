@@ -1,5 +1,7 @@
 # [Oxford Wearables Group](https://www.bdi.ox.ac.uk/research/wearables-group)
 
+![Oxford Wearables Group](wearables-group-photo.png)
+
 ## Software
 
 PyPI | About | Repo | Cite
